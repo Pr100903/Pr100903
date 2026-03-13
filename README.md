@@ -20,6 +20,6 @@ Databases & Tools: MySQL, MongoDB, Git, VS Code
 📫 Connect with Me
 Email: prachi100903@gmail.com
 
-LinkedIn: linkedin.com/in/prachi-singh-1981592a5
+LinkedIn: linkedin.com/in/praxhi-singh
 
 GitHub: github.com/Pr100903
